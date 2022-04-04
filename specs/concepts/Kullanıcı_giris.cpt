@@ -1,0 +1,15 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kullanıcı e-posta giris
+* "//*[@text='E - posta Adresi']" elementi bul ve "alperg257@gmail.com" e-posta girisi yap
+*"2" saniye kadar bekle
+
+# Kullanıcı şifre giris
+*"//*[@text='Parola']" elementi bul ve "040921Aa" e-posta girisi yap
+*"2" saniye kadar bekle
+
+# Sayfadan geri gelme
+*"com.ozdilek.ozdilekteyim:id/ivBack" elemetin sayfada gorunur olduğunu kontrol et ve tıkla
+*"2" saniye kadar bekle
+

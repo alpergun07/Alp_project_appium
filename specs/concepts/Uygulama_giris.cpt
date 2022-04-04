@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Uygulamaya giriş yapılır
+*"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" elemetin sayfada gorunur olduğunu kontrol et ve tıkla
+*"3" saniye kadar bekle

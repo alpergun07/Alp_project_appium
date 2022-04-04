@@ -1,0 +1,16 @@
+Created by testinium on 2.04.2022
+
+This is a concept file with following syntax for each concept.
+# Katagoriler sayfasına basılır
+* "5" saniye kadar bekle
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/nav_categories']" elemetin sayfada gorunur olduğunu kontrol et ve tıkla
+
+
+# Alışverişe başla tuşuna basılır
+*  "5" saniye kadar bekle
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/tv_startShoppingStore']" elemetin sayfada gorunur olduğunu kontrol et ve tıkla
+
+# Giriş yap butonuna basılır
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/btnLogin']" li elementi bul ve tıkla
+
+

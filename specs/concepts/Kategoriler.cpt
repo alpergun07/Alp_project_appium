@@ -1,0 +1,13 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kategoriler sekmesine tıklanır
+*"//*[@resource-id='com.ozdilek.ozdilekteyim:id/nav_categories']" li elementi bul ve tıkla
+* "2" saniye kadar bekle
+# Kadın sekmesine tıklanır
+*"//*[@text='Kadın']" li elementi bul ve tıkla
+* "2" saniye kadar bekle
+# Pantalon kategorisine tıklanır
+*"//*[@text='Pantolon']" li elementi bul ve tıkla
+*"2" saniye kadar bekle
+
